@@ -8,3 +8,4 @@ yarn && yarn start
  ##Selman Kahya Tarafından Yapılmıştır
  
  https://github.com/SelmanKahya/clicker-game
+s
