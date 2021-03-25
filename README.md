@@ -9,3 +9,4 @@ yarn && yarn start
  
  https://github.com/SelmanKahya/clicker-game
 s
+s
